@@ -23,7 +23,7 @@
     <published>2024-09-17T02:03:04.846Z</published>
     <updated>2024-09-17T04:12:14.156Z</updated>
     
-    <content type="html"><![CDATA[<p>这只是一篇测试文章</p><p>测试图片是否能加载成功</p><p><img src="https://raw.githubusercontent.com/liebert77/Blog_Pic/master/2024/9/image-20240917100619811.png" alt="image-20240917100619811"></p><p>测试第二张图片</p><p><img src="https://raw.githubusercontent.com/liebert77/Blog_Pic/master/2024/9/%E5%91%BD%E4%BB%A4%E8%BE%93%E5%85%A5.png" alt="image-20240917101002960"></p>]]></content>
+    <content type="html"><![CDATA[<p>这只是一篇测试文章</p><p>测试图片是否能加载成功</p><p><img src="https://raw.githubusercontent.com/liebert77/Blog_Pic/master/2024/9/image-20240917100619811.png" alt="image-20240917100619811"></p><p>测试第二张图片</p><p><img src="https://raw.githubusercontent.com/liebert77/Blog_Pic/master/2024/9/命令输入.png" alt="image-20240917101002960"></p>]]></content>
     
     
     <summary type="html">测试图片上传功能</summary>
